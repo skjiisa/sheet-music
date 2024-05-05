@@ -8991,6 +8991,9 @@ Arranged by Elaine Lyons</text>
         </Measure>
       <Measure>
         <voice>
+          <StaffText>
+            <text>Optional black note gliss.</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9023,6 +9026,7 @@ Arranged by Elaine Lyons</text>
               </Note>
             </Chord>
           <Chord>
+            <small>1</small>
             <durationType>half</durationType>
             <Note>
               <pitch>94</pitch>
