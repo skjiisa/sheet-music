@@ -2218,8 +2218,8 @@ Arranged by Elaine Lyons</text>
               <text>of</text>
               </Lyrics>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3068,10 +3068,8 @@ Arranged by Elaine Lyons</text>
               </Note>
             </Chord>
           <Rest>
+            <dots>1</dots>
             <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
             </Rest>
           <Chord>
             <durationType>quarter</durationType>
