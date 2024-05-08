@@ -6117,8 +6117,8 @@ Arranged by Elaine Lyons</text>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <ticks>6000</ticks>
-              <ticks_f>25/8</ticks_f>
+              <ticks>240</ticks>
+              <ticks_f>1/8</ticks_f>
               <text>down</text>
               </Lyrics>
             <Note>
@@ -6138,8 +6138,158 @@ Arranged by Elaine Lyons</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>Broke</text>
+              </Lyrics>
+            <Note>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>n</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>down</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>on</text>
+              </Lyrics>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>me</text>
+              </Lyrics>
+            <Note>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>mor</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>y</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>lane</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>a</text>
+              </Lyrics>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>lone</text>
+              </Lyrics>
+            <Note>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>tog</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>eth</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>er</text>
+              </Lyrics>
             <Note>
               <pitch>73</pitch>
               <tpc>9</tpc>
@@ -6147,6 +6297,31 @@ Arranged by Elaine Lyons</text>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <text>we're</text>
+              </Lyrics>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>a</text>
+              </Lyrics>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>lone</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -6158,8 +6333,8 @@ Arranged by Elaine Lyons</text>
                     </location>
                   </next>
                 </Spanner>
-              <pitch>80</pitch>
-              <tpc>10</tpc>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           </voice>
@@ -6170,11 +6345,229 @@ Arranged by Elaine Lyons</text>
             <durationType>whole</durationType>
             <Note>
               <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>7/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>Broke</text>
+              </Lyrics>
+            <Note>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>n</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>down</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>on</text>
+              </Lyrics>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>me</text>
+              </Lyrics>
+            <Note>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>mor</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>y</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>lane</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>a</text>
+              </Lyrics>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>lone</text>
+              </Lyrics>
+            <Note>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>tog</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>eth</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>er</text>
+              </Lyrics>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <text>we're</text>
+              </Lyrics>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>a</text>
+              </Lyrics>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks>2160</ticks>
+              <ticks_f>9/8</ticks_f>
+              <text>lone</text>
+              </Lyrics>
+            <Note>
+              <Spanner type="Tie">
                 <Tie>
                   </Tie>
                 <next>
                   <location>
                     <measures>1</measures>
+                    <fractions>-7/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>3/4</fractions>
                     </location>
                   </next>
                 </Spanner>
@@ -6186,35 +6579,8 @@ Arranged by Elaine Lyons</text>
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>80</pitch>
-              <tpc>10</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/2</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>80</pitch>
-              <tpc>10</tpc>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6223,24 +6589,10 @@ Arranged by Elaine Lyons</text>
               <Spanner type="Tie">
                 <prev>
                   <location>
-                    <fractions>-1/2</fractions>
+                    <fractions>-3/4</fractions>
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>80</pitch>
-              <tpc>10</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
               <pitch>75</pitch>
               <tpc>11</tpc>
               </Note>
@@ -6267,7 +6619,7 @@ Arranged by Elaine Lyons</text>
       <Measure>
         <voice>
           <Chord>
-            <durationType>whole</durationType>
+            <durationType>half</durationType>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -6281,139 +6633,8 @@ Arranged by Elaine Lyons</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <Rest>
             <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>Oh</text>
-              </Lyrics>
-            <Note>
-              <pitch>82</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <ticks>6000</ticks>
-              <ticks_f>25/8</ticks_f>
-              <text>oh</text>
-              </Lyrics>
-            <Note>
-              <pitch>82</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>whole</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>80</pitch>
-              <tpc>10</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>whole</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    </location>
-                  </next>
-                </Spanner>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>80</pitch>
-              <tpc>10</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>whole</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    </location>
-                  </next>
-                </Spanner>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>80</pitch>
-              <tpc>10</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>whole</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>80</pitch>
-              <tpc>10</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
